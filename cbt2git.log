@@ -1,15 +1,15 @@
-2025-04-15 04:47:50.634486 - Received CBT.V505.FILE692.PDS from FILE692.XMI 
-2025-04-15 04:47:50.636002 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:47:50.636579 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$$NOTE1
-2025-04-15 04:47:50.636799 - Found $ASM.jcl (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$ASM
-2025-04-15 04:47:50.637113 - Found $ASMLK.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$ASMLK
-2025-04-15 04:47:50.637464 - Found $JCL.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$JCL
-2025-04-15 04:47:50.637800 - Found $JCLSG.jcl (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$JCLSG
-2025-04-15 04:47:50.638159 - Found $JCLSG1.jcl (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$JCLSG1
-2025-04-15 04:47:50.638379 - Found @FILE692.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/@FILE692
-2025-04-15 04:47:50.638867 - Found LOADLIB.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V505.FILE692.PDS, moved to PDS/LOADLIB
-2025-04-15 04:47:50.639573 - Found OBJECT.bin (application/octet-stream) in CBT.V505.FILE692.PDS, moved to PDS/OBJECT
-2025-04-15 04:47:50.640684 - Found UATAPE.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/UATAPE
-2025-04-15 04:47:50.640861 - Found UATAPEJ1.jcl (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/UATAPEJ1
-2025-04-15 04:47:50.641012 - Found UATAPEJ2.jcl (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/UATAPEJ2
-2025-04-15 04:47:50.642329 - Found UATAPE0.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/UATAPE0
+2025-04-15 23:27:15.012199 - Received CBT.V505.FILE692.PDS from FILE692.XMI 
+2025-04-15 23:27:15.013739 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:27:15.014158 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$$NOTE1
+2025-04-15 23:27:15.014423 - Found $ASM.jcl (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$ASM
+2025-04-15 23:27:15.014785 - Found $ASMLK.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$ASMLK
+2025-04-15 23:27:15.015150 - Found $JCL.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$JCL
+2025-04-15 23:27:15.015475 - Found $JCLSG.jcl (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$JCLSG
+2025-04-15 23:27:15.015803 - Found $JCLSG1.jcl (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/$JCLSG1
+2025-04-15 23:27:15.015872 - Found @FILE692.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/@FILE692
+2025-04-15 23:27:15.016337 - Found LOADLIB.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V505.FILE692.PDS, moved to PDS/LOADLIB
+2025-04-15 23:27:15.016885 - Found OBJECT.bin (application/octet-stream) in CBT.V505.FILE692.PDS, moved to PDS/OBJECT
+2025-04-15 23:27:15.018013 - Found UATAPE.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/UATAPE
+2025-04-15 23:27:15.018209 - Found UATAPEJ1.jcl (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/UATAPEJ1
+2025-04-15 23:27:15.018385 - Found UATAPEJ2.jcl (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/UATAPEJ2
+2025-04-15 23:27:15.019773 - Found UATAPE0.txt (text/plain) in CBT.V505.FILE692.PDS, moved to PDS/UATAPE0
